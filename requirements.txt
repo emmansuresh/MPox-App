@@ -1,6 +1,6 @@
 streamlit==1.18.1
 Pillow==10.0.0
 numpy==1.25.2
-tensorflow==2.14.0
+tensorflow>=2.14.0
 pandas
 joblib
